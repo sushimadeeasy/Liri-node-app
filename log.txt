@@ -1,0 +1,411 @@
+{
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "imdbRating": "7.9",
+  "Country": "Belgium, Germany, Canada, France",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham",
+  "RottenTomatoes": "{\"Source\":\"Rotten Tomatoes\",\"Value\":\"64%\"}"
+}[
+  {
+    "Count": 1,
+    "Date": "Mon May 08 05:16:30 +0000 2017",
+    "Tweet": "Where are all the ugly women? #Montreal #NotComplaining #jenesaispas",
+    "User": "Matthew Waxman"
+  },
+  {
+    "Count": 2,
+    "Date": "Mon May 08 04:47:18 +0000 2017",
+    "Tweet": "Bracelet winner Mike Cordell has half the total chips with six left @HorseshoeBmore; @mauricehawkins out in seventh… https://t.co/uLddSQORBw",
+    "User": "WSOP"
+  },
+  {
+    "Count": 3,
+    "Date": "Mon May 08 02:57:19 +0000 2017",
+    "Tweet": "Wife and I sitting down to watch @SHO_Billions season finale! So excited, can't believe we didn't start 55 mins ago, the second it came out!",
+    "User": "phil_hellmuth"
+  },
+  {
+    "Count": 4,
+    "Date": "Mon May 08 01:48:17 +0000 2017",
+    "Tweet": "Nine left in the @HorseshoeBmore Main, playing for almost $150k and the ring. Hand-for-hand updates here:… https://t.co/V3d7oU3lRk",
+    "User": "WSOP"
+  },
+  {
+    "Count": 5,
+    "Date": "Mon May 08 00:20:12 +0000 2017",
+    "Tweet": "When Jesus fed people he didn't maximize profit on bread and fish, he gave it away for free with no expectation in return. #Socialist",
+    "User": "Daniel Negreanu"
+  },
+  {
+    "Count": 6,
+    "Date": "Mon May 08 00:07:57 +0000 2017",
+    "Tweet": "RT @pokershares: Thanks @RealKidPoker! We will just take you off the site then. Daniel's fans can buy a piece of him in the SHR Bowl instea…",
+    "User": "Daniel Negreanu"
+  },
+  {
+    "Count": 7,
+    "Date": "Mon May 08 00:04:05 +0000 2017",
+    "Tweet": "Hate to kill your action buddy but I must warn people not to bet on me as I won't be able to play any! https://t.co/Y5RQbAHcbt",
+    "User": "Daniel Negreanu"
+  },
+  {
+    "Count": 8,
+    "Date": "Mon May 08 00:02:15 +0000 2017",
+    "Tweet": "Attention #SCOOP2017 players! It's not too late to join the #scoop4charity pledge-more info here https://t.co/QbOOVYR6Wv\nThanks &amp; good luck!",
+    "User": "Liv Boeree"
+  },
+  {
+    "Count": 9,
+    "Date": "Sun May 07 23:59:27 +0000 2017",
+    "Tweet": "I think we all agree on this one buddy! 2018 @WSOP make it happen boys @WSOPTD https://t.co/lNwTljiRAu",
+    "User": "Daniel Negreanu"
+  },
+  {
+    "Count": 10,
+    "Date": "Sun May 07 23:51:38 +0000 2017",
+    "Tweet": "My 2017 WSOP Schedule: https://t.co/tIbXycS4qr\n\nAlso my plan to utilize the clock on players in any NLH events I may play. I will be aggro.",
+    "User": "Daniel Negreanu"
+  },
+  {
+    "Count": 11,
+    "Date": "Sun May 07 23:51:21 +0000 2017",
+    "Tweet": "Oh by the way... @mauricehawkins is still in the @HorseshoeBmore Main with 16 left. So is Cherokee Champ Van Truong… https://t.co/JDsoGYnwUQ",
+    "User": "WSOP"
+  },
+  {
+    "Count": 12,
+    "Date": "Sun May 07 22:51:09 +0000 2017",
+    "Tweet": "Daniel Pearlman (@DaPearl) won the $365 Turbo @HorseshoeBmore for his second ring of the season, likely securing a… https://t.co/0D1A8jaIas",
+    "User": "WSOP"
+  },
+  {
+    "Count": 13,
+    "Date": "Sun May 07 21:39:20 +0000 2017",
+    "Tweet": "So the Cavs give up Dunleavy for Korver seems like a fair trade #nbaplayoffs",
+    "User": "Mike Matusow"
+  },
+  {
+    "Count": 14,
+    "Date": "Sun May 07 21:00:00 +0000 2017",
+    "Tweet": "Don't miss the final episode of the WPT Borgata Poker Open tonight at 8/11p on FOX Sports Regional Networks!… https://t.co/l7E0C720U6",
+    "User": "World Poker Tour"
+  },
+  {
+    "Count": 15,
+    "Date": "Sun May 07 19:56:04 +0000 2017",
+    "Tweet": "Just wanted to send a thank you and a congratulations to the French people who showed up and stood against nationalism. Bravo 👏👏👏",
+    "User": "Daniel Negreanu"
+  },
+  {
+    "Count": 16,
+    "Date": "Sun May 07 19:09:26 +0000 2017",
+    "Tweet": "As @WPTDeepStacks rolls on in Amsterdam, don't forget to join us @gardenscasino May 15-31 for WPT500 Los Angeles!… https://t.co/VisLcbnnSx",
+    "User": "World Poker Tour"
+  },
+  {
+    "Count": 17,
+    "Date": "Sun May 07 17:32:02 +0000 2017",
+    "Tweet": "Another question for conservative Christians: do you think Jesus was more of a socialist or a conservative capitalist?",
+    "User": "Daniel Negreanu"
+  },
+  {
+    "Count": 18,
+    "Date": "Sun May 07 16:55:06 +0000 2017",
+    "Tweet": "Can't find today's #SundayMillion? Check the #SCOOP2017 lobby as it doubles as Event-04-M [1871888939] https://t.co/KNy7bgSAz2",
+    "User": "PokerStars"
+  },
+  {
+    "Count": 19,
+    "Date": "Sun May 07 16:42:00 +0000 2017",
+    "Tweet": "Day 2 of the @HorseshoeBmore Main begins with 81 left — @JoshVizcarra, @KurtJewell, @mauricehawkins near the top.… https://t.co/nt5Fc8u2E1",
+    "User": "WSOP"
+  },
+  {
+    "Count": 20,
+    "Date": "Sun May 07 16:12:18 +0000 2017",
+    "Tweet": "RT @FelipeMojave: Hello @WPT #WPTAmsterdam :) #MonteDam Swing hype is real and I am ready. Come play! https://t.co/8TFvtjrQSs @PokerStarsLI…",
+    "User": "World Poker Tour"
+  }
+]{
+  "Title": "The Discovery",
+  "Year": "2017",
+  "imdbRating": "6.3",
+  "Country": "USA",
+  "Language": "English",
+  "Plot": "Two years after the afterlife is scientifically proven, a man attempts to help a young woman break away from her dark past.",
+  "Actors": "Robert Redford, Mary Steenburgen, Brian McCarthy, Jason Segel",
+  "RottenTomatoes": "{\"Source\":\"Rotten Tomatoes\",\"Value\":\"43%\"}"
+}[
+  {
+    "Count": 1,
+    "Date": "Sat May 13 22:36:09 +0000 2017",
+    "Tweet": "If he is impeached doesn't mean he will leave his office. That's what I want to bet. https://t.co/hJuc7mJOBX",
+    "User": "Doyle Brunson"
+  },
+  {
+    "Count": 2,
+    "Date": "Sat May 13 22:32:53 +0000 2017",
+    "Tweet": "Even if he is impeached, he won't leave office. https://t.co/ESui8MJtk6",
+    "User": "Doyle Brunson"
+  },
+  {
+    "Count": 3,
+    "Date": "Sat May 13 22:31:12 +0000 2017",
+    "Tweet": "RT @TexDolly: @HARDINSIMMONSAD Don't believe Steadman was there when HSU went to the sweet 16. It's ok though, I just feel it's strange.#no…",
+    "User": "Doyle Brunson"
+  },
+  {
+    "Count": 4,
+    "Date": "Sat May 13 22:26:28 +0000 2017",
+    "Tweet": "RT @SLBenfica: 🎶 SLB, SLB...! https://t.co/EGP5TNG4g5",
+    "User": "Pedro Almeida"
+  },
+  {
+    "Count": 5,
+    "Date": "Sat May 13 21:43:03 +0000 2017",
+    "Tweet": "You are just blowing smoke. If you are serious, sell whatever u have and bring it to the Bellagio poker room. https://t.co/gZoPFGc1tL",
+    "User": "Doyle Brunson"
+  },
+  {
+    "Count": 6,
+    "Date": "Sat May 13 21:15:00 +0000 2017",
+    "Tweet": "Day 1b of @WPTDeepStacks Central California from @TurlockPoker running now, with coverage at https://t.co/SYxTrPll2S.",
+    "User": "World Poker Tour"
+  },
+  {
+    "Count": 7,
+    "Date": "Sat May 13 20:50:38 +0000 2017",
+    "Tweet": "Greatest moment of the day!!!! https://t.co/tWqMdDj9OB",
+    "User": "Pedro Almeida"
+  },
+  {
+    "Count": 8,
+    "Date": "Sat May 13 20:50:34 +0000 2017",
+    "Tweet": "RT @EliseuTheMan: THEY SEE ME ROLLIN'\nTHEY HATIN'.\nELISEU THE MAN IS PATROLLING,\nTRYIN CATCH ME RIDIN' DIRTY\n#Tetra36 https://t.co/RbC8UaZe…",
+    "User": "Pedro Almeida"
+  },
+  {
+    "Count": 9,
+    "Date": "Sat May 13 20:41:51 +0000 2017",
+    "Tweet": "RT @SLBenfica: 🛵 Show Eliseu! #Tetra36 https://t.co/sZFwDzsSVE",
+    "User": "Pedro Almeida"
+  },
+  {
+    "Count": 10,
+    "Date": "Sat May 13 20:30:35 +0000 2017",
+    "Tweet": "Daniel Daniyar became the World Poker Tour's first-ever champion from Kazakhstan when he won #WPTAmsterdam! https://t.co/Si70fiQFFS",
+    "User": "World Poker Tour"
+  },
+  {
+    "Count": 11,
+    "Date": "Sat May 13 20:12:06 +0000 2017",
+    "Tweet": "no, but Bill Clinton was. https://t.co/BQjSA8ZOUF",
+    "User": "Doyle Brunson"
+  },
+  {
+    "Count": 12,
+    "Date": "Sat May 13 20:11:21 +0000 2017",
+    "Tweet": "I can't imagine why you would be unemployed.#instablock https://t.co/JQsdzSK9AC",
+    "User": "Doyle Brunson"
+  },
+  {
+    "Count": 13,
+    "Date": "Sat May 13 20:00:57 +0000 2017",
+    "Tweet": "RT @CauseWereGuys: Today kids will never know about the FIRST splashbros https://t.co/tYbIZzVBRG",
+    "User": "Doyle Brunson"
+  },
+  {
+    "Count": 14,
+    "Date": "Sat May 13 17:47:46 +0000 2017",
+    "Tweet": "Congratulations to Daniel Daniyar, winner of the #WPTAmsterdam Main Event from @HollandCasino!… https://t.co/gcCpqLGZFR",
+    "User": "World Poker Tour"
+  },
+  {
+    "Count": 15,
+    "Date": "Sat May 13 17:43:27 +0000 2017",
+    "Tweet": "It's all over! Daniel Daniyar eliminates Louis Salter in 2nd place to win the #WPTAmsterdam Main Event!… https://t.co/jnQ9FXc68b",
+    "User": "World Poker Tour"
+  },
+  {
+    "Count": 16,
+    "Date": "Sat May 13 17:39:22 +0000 2017",
+    "Tweet": "Big double up for Daniel Daniyar in heads-up play of the #WPTAmsterdam Main Event!\n\nStream: https://t.co/VkB0ZT0wag… https://t.co/wsC7zzEXDj",
+    "User": "World Poker Tour"
+  },
+  {
+    "Count": 17,
+    "Date": "Sat May 13 16:30:21 +0000 2017",
+    "Tweet": "Value alert! 🎺 There's a special VIP Bash in 30 minutes (13:00 ET) with TEN seats to SCOOP-01-H added. Register now… https://t.co/8p7NhM4UDm",
+    "User": "PokerStars"
+  },
+  {
+    "Count": 18,
+    "Date": "Sat May 13 16:30:03 +0000 2017",
+    "Tweet": "Heads up in the #WPTAmsterdam Main Event between Daniel Daniyar from Kazakhstan and Louis Salter from the UK.… https://t.co/Tjp9OrWk9R",
+    "User": "World Poker Tour"
+  },
+  {
+    "Count": 19,
+    "Date": "Sat May 13 16:11:36 +0000 2017",
+    "Tweet": "Check out the wild hand that eliminated Jan Jansma in 3rd place from #WPTAmsterdam! https://t.co/gDZnfMbnKS",
+    "User": "World Poker Tour"
+  },
+  {
+    "Count": 20,
+    "Date": "Sat May 13 15:38:31 +0000 2017",
+    "Tweet": "Tristan Wade finished second in chips after Day 1a of @WPTDeepStacks Central California from @TurlockPoker.… https://t.co/MjnOy20Qh5",
+    "User": "World Poker Tour"
+  }
+][
+  {
+    "Search": 1,
+    "ArtistName": "Drake",
+    "SongName": "Madonna",
+    "PreviewLink": "https://open.spotify.com/track/4v7SAP4KD96BFLWiCd1vF0",
+    "AlbumName": "If You're Reading This It's Too Late"
+  },
+  {
+    "Search": 2,
+    "ArtistName": "Madonna",
+    "SongName": "Material Girl",
+    "PreviewLink": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 3,
+    "ArtistName": "Madonna",
+    "SongName": "Like A Prayer",
+    "PreviewLink": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 4,
+    "ArtistName": "Madonna",
+    "SongName": "4 Minutes - feat. Justin Timberlake And Timbaland",
+    "PreviewLink": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 5,
+    "ArtistName": "Madonna",
+    "SongName": "Vogue",
+    "PreviewLink": "https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 6,
+    "ArtistName": "Madonna",
+    "SongName": "Like A Virgin",
+    "PreviewLink": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ",
+    "AlbumName": "Like A Virgin (Reissue)"
+  },
+  {
+    "Search": 7,
+    "ArtistName": "The Beatles",
+    "SongName": "Lady Madonna - Remastered 2015",
+    "PreviewLink": "https://open.spotify.com/track/1raiIrqaqRAqZmQWZlLuBd",
+    "AlbumName": "1 (Remastered)"
+  },
+  {
+    "Search": 8,
+    "ArtistName": "Madonna",
+    "SongName": "Into The Groove",
+    "PreviewLink": "https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 9,
+    "ArtistName": "Madonna",
+    "SongName": "Like A Virgin",
+    "PreviewLink": "https://open.spotify.com/track/1iaIEmZHrjGzWUmJ9BaFr6",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 10,
+    "ArtistName": "Madonna",
+    "SongName": "Hung Up",
+    "PreviewLink": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH",
+    "AlbumName": "Confessions On A Dance Floor (12 Reg. Tracks)"
+  },
+  {
+    "Search": 11,
+    "ArtistName": "Madonna",
+    "SongName": "Borderline",
+    "PreviewLink": "https://open.spotify.com/track/4SuabhTNPBTBFjfOjhvRNQ",
+    "AlbumName": "Madonna (Reissue)"
+  },
+  {
+    "Search": 12,
+    "ArtistName": "Madonna",
+    "SongName": "Holiday",
+    "PreviewLink": "https://open.spotify.com/track/4k6ktr10Hczmh55NY3LfJy",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 13,
+    "ArtistName": "Madonna",
+    "SongName": "Holiday",
+    "PreviewLink": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n",
+    "AlbumName": "Madonna (Reissue)"
+  },
+  {
+    "Search": 14,
+    "ArtistName": "Madonna",
+    "SongName": "La Isla Bonita",
+    "PreviewLink": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 15,
+    "ArtistName": "Madonna",
+    "SongName": "Lucky Star",
+    "PreviewLink": "https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q",
+    "AlbumName": "Madonna (Reissue)"
+  },
+  {
+    "Search": 16,
+    "ArtistName": "Madonna",
+    "SongName": "Crazy For You",
+    "PreviewLink": "https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 17,
+    "ArtistName": "Madonna",
+    "SongName": "Open Your Heart",
+    "PreviewLink": "https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 18,
+    "ArtistName": "Madonna",
+    "SongName": "Like A Prayer",
+    "PreviewLink": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV",
+    "AlbumName": "Like A Prayer"
+  },
+  {
+    "Search": 19,
+    "ArtistName": "Madonna",
+    "SongName": "Music",
+    "PreviewLink": "https://open.spotify.com/track/27cXevtj5VflsCUAZwr9eI",
+    "AlbumName": "Celebration (double disc version)"
+  },
+  {
+    "Search": 20,
+    "ArtistName": "Madonna",
+    "SongName": "Bitch I'm Madonna",
+    "PreviewLink": "https://open.spotify.com/track/0y1l0SeQaUJ0DZCWvT2R1h",
+    "AlbumName": "Bitch I'm Madonna"
+  }
+]{
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "imdbRating": "7.9",
+  "Country": "Belgium, Germany, Canada, France, USA, UK",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham",
+  "RottenTomatoes": "{\"Source\":\"Rotten Tomatoes\",\"Value\":\"64%\"}"
+}
